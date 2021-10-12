@@ -34,7 +34,7 @@
 </h2>
 <p align="center">
 Tive a ideia de fazer esse projeto quando jogava RPG e sempre precisava calcular a probabilidade de um evento<br>
-Então resolvi fazer uma calculadora de probabilidades em Java para praticar a linguagem.<br>
+Então resolvi fazer uma calculadora de probabilidades em Java para calcular automáticamente e praticar a linguagem.<br>
 
 <h2 id="features" align="center">
   Funcionalidades :book:
@@ -50,7 +50,7 @@ Caso o usuário digite algo que não seja um número irá retornar um erro de "N
   Instalação :rocket:
 </h2>
 <p align="center">
-  Para instalar é só ir em "Releases" no canto direito da tela e selecionar a versão mais recente.<br>
+  Para instalar é só ir em <a href="https://github.com/victorHQ">Releases</a> e selecionar a versão mais recente.<br>
   Caso queira ver o código é só baixar a pasta source code<br>
   Para abrir é só executar o arquivo calculadoraDeProbabilidade.jar<br> 
   Se não abrir recomendo executar antes o arquivo: jarfix.jar.
