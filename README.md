@@ -28,6 +28,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=JAVA&color=ff8f00&style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=Css3"/>
 </p>
 <h2 id="project" align="center">
  Sobre o Projeto :technologist:
