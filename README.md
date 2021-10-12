@@ -42,7 +42,7 @@ Então resolvi fazer uma calculadora de probabilidades em Java para calcular aut
 </h2>
 <p align="center">
 A calculadora irá calcular sempre a probabilidade entre dois números. <br>
-Exemplo: Caso queira saber a probabilidade de um evento ocorrer sendo as chances de 1(numero de chances) em 4 (total de chances), a calculadora irá retornar 20%. <br>
+Exemplo: Caso queira saber a probabilidade de um evento ocorrer sendo as chances de 1 (numero de chances) em 4 (total de chances), a calculadora irá retornar 25%. <br>
 Caso o usuário digite algo que não seja um número irá retornar um erro de "Número inválido!"
   
 </p>
