@@ -69,7 +69,7 @@ Caso o usuário digite algo que não seja um número irá retornar um erro de "N
   Agradecimentos 😎
 </h2>
 <p align="center">
-  Agradecimento ao meu amigo e colega de trabalho <a href="https://github.com/victorHQ">Victor Hugo</a> que me apresentou o JavaFX.
+  Agradecimento especial ao meu amigo e colega de trabalho <a href="https://github.com/victorHQ">Victor Hugo</a> que me apresentou o JavaFX.
 </p>
 
   
