@@ -11,15 +11,12 @@
  <a href="#license">Licença</a>
 </p>
 
-<br>
+
 <p align="center">
-  <img alt="Page" src="https://user-images.githubusercontent.com/84996527/136987621-526b0ebc-5c41-4601-8729-f32fa92c306d.PNG">
+  <img src="https://github.com/renecfjunior/calculadordeprobabilidade/blob/master/Animação.gif" alt="animated" />
 </p>
 
-<br>
-<p align="center">
-  <img alt="Page" src="https://user-images.githubusercontent.com/84996527/136988092-11f75a50-626b-41d1-99fa-f22d60aaf4a9.PNG">
-</p>
+
 
 <br>
 <h2 id="tecnologias" align="center">
@@ -37,15 +34,19 @@
 Tive a ideia de fazer esse projeto quando jogava RPG e sempre precisava calcular a probabilidade de um evento<br>
 Então resolvi fazer uma calculadora de probabilidades em Java para calcular automáticamente e praticar a linguagem.<br>
 
+
 <h2 id="features" align="center">
   Funcionalidades :book:
 </h2>
 <p align="center">
 A calculadora irá calcular sempre a probabilidade entre dois números. <br>
-Exemplo: Caso queira saber a probabilidade de um evento ocorrer sendo as chances de 1 (numero de chances) em 4 (total de chances), a calculadora irá retornar 25%. <br>
+Ex: Caso queira saber a probabilidade de um evento ocorrer sendo as chances de 1 (numero de chances) em 4 (total de chances), a calculadora irá retornar 25%. <br>
 Caso o usuário digite algo que não seja um número irá retornar um erro de "Número inválido!"
   
 </p>
+
+
+
  
 <h2 id="install" align="center">
   Instalação :rocket:
