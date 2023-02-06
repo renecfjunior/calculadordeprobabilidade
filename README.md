@@ -64,12 +64,3 @@ Caso o usuário digite algo que não seja um número irá retornar um erro de "N
   Esse projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE"> LICENSE </a> para mais detalhes.<br><br>
   <a href="LICENSE"><img src="https://img.shields.io/static/v1?label=license&message=mit&color=green&style=for-the-badge&logo="/></a>   
 </p>
-
-<h2 align="center">
-  Agradecimentos 😎
-</h2>
-<p align="center">
-  Agradecimento especial ao meu amigo e colega de trabalho <a href="https://github.com/victorHQ">Victor Hugo</a> que me apresentou o JavaFX.
-</p>
-
-  
