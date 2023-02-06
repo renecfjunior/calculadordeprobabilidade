@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="CalculadoraProbabilidades.jar" size="535287" download="eager" />
+    <jar href="CalculadoraProbabilidades.jar" size="535865" download="eager" />
   </resources>
   <jfx:javafx-desc  width="800" height="600" main-class="calculadoraprobabilidades.CalculadoraProbabilidades"  name="CalculadoraProbabilidades" />
   <update check="always"/>
