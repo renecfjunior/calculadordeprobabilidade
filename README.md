@@ -51,7 +51,7 @@ Caso o usuário digite algo que não seja um número irá retornar um erro de "N
   Instalação :rocket:
 </h2>
 <p align="center">
-  Para instalar é só ir em <a href="https://github.com/renecfjunior/calculadordeprobabilidade/releases/tag/V1.0">Releases</a> e selecionar a versão mais recente.<br>
+  Para instalar é só ir em <a href="https://github.com/renecfjunior/calculadordeprobabilidade/releases">Releases</a> e selecionar a versão mais recente.<br>
   Caso queira ver o código é só baixar a pasta source code<br>
   Para abrir é só executar o arquivo calculadoraDeProbabilidade.jar<br> 
   Caso o arquivo não abra recomendo executar antes o arquivo jarfix.exe.
